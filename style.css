@@ -440,8 +440,11 @@ nav .caret {
 }
 
 .mg-md2{
-    margin-top: 30px;
-    margin-bottom: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: block;
+    color: black!important;
+    font-size: 2rem;
 }
 
 .mg-lg {
