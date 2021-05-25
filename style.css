@@ -435,8 +435,13 @@ nav .caret {
 }
 
 .mg-md {
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.mg-md a{
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .mg-lg {
